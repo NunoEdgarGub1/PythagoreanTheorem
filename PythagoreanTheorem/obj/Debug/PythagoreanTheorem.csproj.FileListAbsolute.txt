@@ -1,0 +1,2 @@
+C:\Users\Paula Nunes\Documents\Visual Studio 2015\Projects\PythagoreanTheorem\PythagoreanTheorem\bin\Debug\PythagoreanTheorem.exe.config
+C:\Users\Paula Nunes\Documents\Visual Studio 2015\Projects\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\PythagoreanTheorem.csprojResolveAssemblyReference.cache
